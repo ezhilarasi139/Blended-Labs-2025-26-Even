@@ -105,9 +105,14 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 <img width="1897" height="1002" alt="Screenshot 2026-02-12 121830" src="https://github.com/user-attachments/assets/474814ff-e331-4cca-9ad5-15c2c458a70c" />
 
 <img width="1896" height="991" alt="Screenshot 2026-02-12 122005" src="https://github.com/user-attachments/assets/ddca932c-49c6-4f42-82af-b422697f816f" />
+
+
 ### Screenshot 2: EC2 Instance Running
 
-![Uploading Screenshot 2026-02-12 104652.png…]()
+<img width="1919" height="990" alt="Screenshot 2026-02-12 104652" src="https://github.com/user-attachments/assets/c705c1ee-d282-47f8-bc24-016e05c67504" />
+
+
+
 
 
 ### Screenshot 3: Web Server Output in Browser
