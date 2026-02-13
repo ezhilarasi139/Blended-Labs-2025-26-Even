@@ -87,7 +87,7 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-Task 1: Creating a VPC
+#### Task 1: Creating a VPC
 
 I logged in to Amazon Web Services Management Console.
 
@@ -131,7 +131,7 @@ Public and Private Subnets
 
 Route Tables
 
-Task 2: Creating Additional Subnets
+#### Task 2: Creating Additional Subnets
 
 In the VPC console, I selected Subnets.
 
@@ -159,7 +159,7 @@ I selected the public route table and associated it with the second public subne
 
 Now the VPC had public and private subnets in two Availability Zones.
 
-Task 3: Creating a Security Group
+#### Task 3: Creating a Security Group
 
 In the VPC console, I selected Security Groups.
 
@@ -183,7 +183,7 @@ I created the security group.
 
 This security group allows web traffic to the instance.
 
-Task 4: Launching an EC2 Web Server
+#### Task 4: Launching an EC2 Web Server
 
 I searched for and opened Amazon Elastic Compute Cloud (EC2).
 
