@@ -1,4 +1,4 @@
-# Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+<img width="1920" height="1200" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/1bd22eb3-bba2-452c-9131-4469771e87b0" /># Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
@@ -34,8 +34,15 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+
+<img width="1920" height="1200" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/01c241ad-1be7-47ca-9f71-4acff9bcd6b9" />
+
+<img width="1920" height="1200" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/e9a4eddd-e6f8-4384-883d-36f6ae28f793" />
+
+<img width="1920" height="1200" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/d7daea77-e55d-4c33-9bc9-0593567ac16e" />
+
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +50,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**
-  ![Uploading Screenshot (241).png…]()
+  
+<img width="1920" height="1200" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/e1f0387a-a68f-4366-b728-090e0e6db850" />
+
 
 
 
