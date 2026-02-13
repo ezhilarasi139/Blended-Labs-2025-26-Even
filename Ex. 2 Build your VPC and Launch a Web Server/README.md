@@ -118,6 +118,8 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 ### Screenshot 3: Web Server Output in Browser
 
 
+<img width="1725" height="965" alt="Screenshot 2026-02-13 094800" src="https://github.com/user-attachments/assets/77146927-fbd7-41b5-81bc-cc8821629f6f" />
+
 
 ## Result 
 
