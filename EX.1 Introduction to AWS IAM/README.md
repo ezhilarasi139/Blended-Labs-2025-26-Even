@@ -79,6 +79,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** EZHILARASI N(212224040088)
+**Name:** EZHILARASI N  (212224040088)
+
 **Course:** Introduction to Cloud Computing  
 
