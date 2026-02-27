@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**: ________________________________
+* **Name**: EZHILARASI N
 * **Register Number**: _____________________
 * **Date of Submission**: __________________
 
