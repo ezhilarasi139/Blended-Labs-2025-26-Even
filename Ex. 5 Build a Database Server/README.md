@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: EZHILARASI N
+* **Register Number**: 212224040088
+* **Date of Submission**: 09.03.2026
 
 ---
 
@@ -84,13 +84,25 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Logged in to AWS Management Console and opened Amazon EC2.
 
----
+2. Launched a new EC2 instance using Amazon Linux 2 AMI and selected an appropriate instance type.
+
+3. Created/selected a key pair and configured a security group for the instance.
+
+4. Modified the security group to allow SSH (Port 22) and database access (3306 for MySQL or 5432 for PostgreSQL).
+
+5. Connected to the EC2 instance using an SSH client such as PuTTY or terminal.
+
+6.Installed the database server (e.g., MySQL, MariaDB, or PostgreSQL) using Linux package manager commands.
+
+7. Started the database service and configured basic settings such as the root password and user privileges.
+
+8. Created a sample database and table and inserted a few records.
+
+9. Tested database connectivity by running basic SQL queries.
+ 
+
 
 ## Output Screenshots (Attach 3)
 
