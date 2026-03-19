@@ -98,9 +98,6 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 <img width="1920" height="1200" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/7b043671-c491-49fc-885d-1bbd1294fc56" />
 
-
-<img width="1920" height="1200" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/9ead375b-4026-4979-8a45-f74b860fc92a" />
-
 <img width="1920" height="1200" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/dfbd67ec-ebd8-462c-82c8-edb805492d61" />
 
 <img width="1920" height="1200" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/c99218fb-0d9e-45ec-b68b-752e0c2a0327" />
